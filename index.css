@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+.game-button:active {
+    transform: translateY(4px);
+  }
