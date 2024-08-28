@@ -34,7 +34,7 @@ resultsDiv.style.height = '30vh';
 resultsDiv.style.justifyContent = 'center';
 resultsDiv.style.margin = '0 auto';
 resultsDiv.style.textAlign = 'center';
-resultsDiv.style.width = '80%';
+resultsDiv.style.width = '85%';
 
 resultsDiv.append(computerScore, playerScore, scoreMessage);
 
